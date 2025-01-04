@@ -14,6 +14,8 @@ struct ContentView: View {
                 NavigationLink("Using SpriteKit", destination: UsingSpriteKitView())
 
                 NavigationLink("Using Animation", destination: UsingAnimationView())
+
+                NavigationLink("Using Canvas", destination: UsingCanvasView())
             }
         }
         .background(Color.black)
