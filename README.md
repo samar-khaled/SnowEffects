@@ -1,5 +1,7 @@
 # How to Create a Snowfall Effect in SwiftUI
 
+[Medium Article](https://medium.com/@samar.khaled/how-to-create-a-snowfall-effect-in-swiftui-0bfddb5de950)
+
 With the holiday season just around the corner, what better way to bring some festive magic into your app than by adding a beautiful snowfall effect? In this article, we'll explore four different methods for creating a snowfall effect in SwiftUI, each offering its own advantages, so you can choose the one that best fits your needs. Whether you're building a game, a winter-themed app, or just want to add some winter charm, you'll find a solution here.
 
 https://github.com/user-attachments/assets/2d5eb4fe-c048-4a3b-8a4c-2977b9045532
